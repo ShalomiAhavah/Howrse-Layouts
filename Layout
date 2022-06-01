@@ -1,0 +1,64 @@
+
+<div class=container>
+<img src="https://i.ibb.co/PmKdbKT/03567-BB7-1784-43-DD-9-BA6-C40-BDBD9-E1-C3.jpg">
+
+<div class="text-block1">
+
+<p>jdjiejejejiekkeke
+skejjejkjem3kekekkdke
+jejjejejjejdjejdjjejemsk
+jsikemejdjjdmemdkkkekke
+jsjdjsiksksjsjjsjjsjsjs
+sjsjjsjwjsjsjjsmwjsksksk
+hsusjjsjwjsiskjjsisjjsjsisiksh
+shususiisiiwjjsisiisjwjwj
+shshisjwjsjsjsijw
+</p>
+</div>
+</div>
+
+<div class="text-block2">
+<p>jdjdjdkjdjdjdmdjidjejdidje
+djejjejekmdmde
+mekjejenjhdjjsksmsksksmsmk
+jsjejjdjjemejdkdksmskkskswm
+sjsjsiksmsjsiskmsskksmsksks
+jsjsiiwmsisjmsksksnmskkswjks
+jsiiskwkkwkwkkskskkskwkwkwkw
+</p>
+</div>
+
+<style>
+
+.container {
+position: relative;
+}
+
+.text-block1 {
+position: absolute;
+top: 50px;
+left: 10px;
+color: black;
+padding-left: 20px;
+padding-right: 20px;
+height:50px;
+width: 30px;
+oberflow: auto;
+}
+
+.text-block2 {
+position: absolute;
+top: 275px;
+left: 30px;
+color: black;
+padding-left: 20px;
+padding-right: 20px;
+width: 210px;
+height: 115px;
+overflow: auto;
+}
+
+
+
+
+</style>
